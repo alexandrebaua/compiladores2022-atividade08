@@ -1,0 +1,13 @@
+algoritmo "Média_do_aluno"
+variáveis
+   n1, n2, media: real;
+inicio
+   escreva("Digite as duas notas:");
+   leia(n1,n2);
+   media <- (n1+n2)/2;
+   se (média >= 5) então
+      escreva ("APROVADO");
+   senão
+      escreva ("REPROVADO");
+   fim_se;
+fim.

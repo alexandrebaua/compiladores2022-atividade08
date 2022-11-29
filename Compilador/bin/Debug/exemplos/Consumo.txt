@@ -1,0 +1,14 @@
+Algoritmo "Consumo"
+   Real: consumo, distancia, volume
+Início
+   escreva("Calcula o consumo médio de combustível")
+   escreva ("------- - ------- ----- -- -----------")
+   escreva (" ")
+   escreva ("Qual a distancia (Km) percorrida pelo veiculo? ")
+   leia(distancia)
+   escreva ("Quantos litros de combustível foram gastos no trajeto? ")
+   leia(volume)
+   consumo <- volume/distancia
+   escreva("O consumo medio de combustível foi de ", consumo, " litros/km")
+   escreva("O carro fez ", distancia/volume, "km com 1 litro")
+Fim
