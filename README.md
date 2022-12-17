@@ -36,6 +36,7 @@ fim.
 - [Funções SYSCALL disponíveis no MARS](https://courses.missouristate.edu/kenvollmar/mars/help/syscallhelp.html)
 
 ### Arquivos relacionados:
+- [Artigo](docs/Compiladores%20-%20Algoritmo.pdf)
 - [Documentação (Gramática, estados, reduções e tabela)](docs)
 - [Formulário principal](Compilador/FormMain.cs)
 - [Diretório analizador léxico](Compilador/Lexico)
@@ -43,4 +44,3 @@ fim.
 - [Diretório analisador semântico](Compilador/Semantico)
 - [Diretório gerador código Assembly MIPS](Compilador/GeradorCódigo/MIPS)
 - [Arquivo executável](Compilador/bin/Debug/Compilador.exe)
-- [Artigo](docs/Compiladores%20-%20Algoritmo.pdf)
