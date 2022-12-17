@@ -43,4 +43,4 @@ fim.
 - [Diretório analisador semântico](Compilador/Semantico)
 - [Diretório gerador código Assembly MIPS](Compilador/GeradorCódigo/MIPS)
 - [Arquivo executável](Compilador/bin/Debug/Compilador.exe)
-- [Artigo Desenvolvimento](docs/Compiladores%20-%20Algoritmo.pdf)
+- [Artigo](docs/Compiladores%20-%20Algoritmo.pdf)
